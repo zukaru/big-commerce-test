@@ -32,7 +32,7 @@ This feature was implemented in the following files:
 This feature was implemented in the following files:
 
 
-[1.  assets/js/theme/category.js  **Lines 58 to 122**](https://github.com/zukaru/big-commerce-test/blob/7b57d6e90672d561f736557be25cba3177b62d41/assets/js/theme/category.js#L58-L122)
+[1.  assets/js/theme/category.js  **Lines 67 to 122**](https://github.com/zukaru/big-commerce-test/blob/8040be2392cbb86d49346965597d407e5619f770/assets/js/theme/category.js#L67-L122)
 
 [2.  templates/pages/category.html  **Lines 51 to 56**](https://github.com/zukaru/big-commerce-test/blob/7b57d6e90672d561f736557be25cba3177b62d41/templates/pages/category.html#L51-L56)
 
@@ -42,7 +42,7 @@ This feature was implemented in the following files:
 
 This feature was implemented in the following files:
 
-[1.  assets/js/theme/category.js  **Lines 62 to 63**](https://github.com/zukaru/big-commerce-test/blob/7b57d6e90672d561f736557be25cba3177b62d41/assets/js/theme/category.js#L62-L63)
+[1.  assets/js/theme/category.js  **Lines 62 to 63**](https://github.com/zukaru/big-commerce-test/blob/8040be2392cbb86d49346965597d407e5619f770/assets/js/theme/category.js#L62-L63)
 
 [2.  templates/pages/category.html  **Lines 8 to 19**](https://github.com/zukaru/big-commerce-test/blob/7b57d6e90672d561f736557be25cba3177b62d41/templates/pages/category.html#L8-L19) 
 
