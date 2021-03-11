@@ -1,0 +1,10 @@
+{
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  },
+  "normalStoreUrl": "https://testing259.mybigcommerce.com/?ctk=c95b998f-fc45-4af7-a13a-c8582e829d39",
+  "port": 3000
+}
