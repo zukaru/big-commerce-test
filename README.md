@@ -16,7 +16,7 @@ Completed using the BigCommerce dashboard for store owners.
 This feature was implemented by customizing 2 files.
 
 
-[1.  assets/scss/components/citadel/cards/_cards.scss  **Lines 47 to 75**](https://github.com/zukaru/big-commerce-test/blob/7c061be621b9283491ed5c9e0f6c33b0dfe9d525/assets/scss/components/citadel/cards/_cards.scss#L47-L75) 
+[1.  assets/scss/components/citadel/cards/_cards.scss  **Lines 47 to 75**](https://github.com/zukaru/big-commerce-test/blob/7c061be621b9283491ed5c9e0f6c33b0dfe9d525/assets/scss/components/citadel/cards/_cards.scss#L47-L75)
 
 2.  templates/components/products/card.html  **Lines 31 to 41**
 
@@ -33,7 +33,7 @@ This feature was implemented by customizing 2 files
 2.  templates/components/products/card.html  **Lines 31 to 41**
 
 
-
+  
 
 
 
