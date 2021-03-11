@@ -18,4 +18,8 @@ Completed using the BigCommerce dashboard for store owners.
 This feature was implemented by customizing 2 files.
 
 
-1) assets/scss/components/citadel/cards/_cards.scss  
+1   assets/scss/components/citadel/cards/_cards.scss  **Lines 47 to 75**
+
+2   templates/components/products/card.html **Lines 31 to 41**
+
+

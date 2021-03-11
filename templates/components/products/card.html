@@ -26,9 +26,12 @@
 
                 <!-- Primary image -->
                 <img src="{{getImage image 'productgallery_size' (cdn theme_settings.default_image_product)}}" class="card-image" alt="{{image.alt}}" title="{{image.alt}}">
+
+
                 <!-- Custom functionality -->
                 <!-- Iterate through images with a limit of 2 -->
                 {{#each (limit images 2)}}
+                
                 <!-- Only display the second image (visible on hover via _card.scss) -->
                     {{#if @index '>' 0}}
                     <!-- Secondary image -->
