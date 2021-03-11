@@ -63,7 +63,7 @@ export default class Category extends CatalogPage {
         $('.banners').show('slow')
 
 
-        console.log({utils})
+        
         // 
         // On ready, toggles #removeAllItems if cart data is undefined
         utils.api.cart.getCart({}, (err, data) => {
@@ -75,7 +75,7 @@ export default class Category extends CatalogPage {
 
         // When #addToCart is clicked add special item to cart
         // The special item ID is hardwired to the get request
-        // It will only add the special item with id=122
+        // It will only add the special item with id=112
 
         $("button#addToCart").on('click', function(event) {
 
